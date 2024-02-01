@@ -1,1 +1,1 @@
-This is an API Testing project using postamn 
+This is an API Testing project using postman
